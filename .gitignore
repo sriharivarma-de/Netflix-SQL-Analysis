@@ -1,0 +1,11 @@
+# Ignore database logs and backups
+*.log
+*.sql_dump
+*.bak
+
+# Ignore system junk
+.DS_Store
+Thumbs.db
+
+# Ignore local environment/password files
+.env

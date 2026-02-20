@@ -21,3 +21,6 @@ Based on the provided ER diagram, the analysis uses the following tables:
 - `payments`: Transaction history including amount and status.
 - `subscription_plans`: Plan pricing and features.
 - `watch_history`: User viewing patterns.
+
+## 📊 Entity-Relationship Diagram
+![Netflix ER Diagram](Netflix_ER_Diagram.png)
